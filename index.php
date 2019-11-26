@@ -48,7 +48,7 @@
             <div class="grid">
                 <div class="col">
                     <h2 class="serif">Our Solution: Safe spaces for sanitary purposes</h2>
-                     <img src="images/person-with-painting.jpg" alt="Image of young smiling person" />
+                    <img src="images/person-with-painting.jpg" alt="Image of young smiling person" />
                     <p>In 2017, over 100 000 people in developing countries did not go to school for several days during their period. This is due to the pricing and lack of period products and unsafe hygienic conditions in their communities.</p>
                     <q>The Orange Room creates solutions to help young people finish their education - by creating safe spaces for sanitary purposes. </q>
                     <p>In 2017, over 100 000 people in developing countries did not go to school for several days during their period. This is due to the pricing and lack of period products and unsafe hygienic conditions in their communities.</p>
