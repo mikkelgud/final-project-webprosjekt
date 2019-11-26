@@ -8,16 +8,16 @@
                 <a class="active" href="/">Home</a>
             </div>
             <div class="single-menu-item">
-                <a href="/challenge">Our Challenge</a>
+                <a href="/challenge.php">Our Challenge</a>
             </div>
             <div class="single-menu-item">
-                <a href="/solution">Our Solution</a>
+                <a href="/solution.php">Our Solution</a>
             </div>
             <div class="single-menu-item">
-                <a href="/about">About</a>
+                <a href="/about.php">About</a>
             </div>
             <div class="single-menu-item">
-                <a href="/faq">FAQ</a>
+                <a href="/faq.php">FAQ</a>
             </div>
         </div>
     </div>

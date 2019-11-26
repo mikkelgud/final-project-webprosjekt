@@ -30,7 +30,7 @@
                     <p>In 2017, over 100 000 people in developing countries did not go to school for several days during their period. This is due to the pricing and lack of period products and unsafe hygienic conditions in their communities.</p>
                     
                     <div class="button-container p-t-lg">
-                        <a class="button button--transparent-dark" href="/challenge">About the challenge</a>
+                        <a class="button button--transparent-dark" href="/challenge.php">About the challenge</a>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@
                         <div class="infobox__content">
                             <h3 class="infobox__title">Infobox</h3>
                             <p>In 2017, over 100 000 people in developing countries did not go to school for several days during their period. </p>
-                            <a href="#">Source</a>
+                            <a href="#" target="blank">Source</a>
                         </div>
                     </div>
 
