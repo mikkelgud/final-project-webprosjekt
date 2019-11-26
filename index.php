@@ -8,7 +8,7 @@
                 <div class="col">
                     <h1 class="u-color-white">Safe sanitary spaces to ensure young people can continue their education. </h1>
                     <div class="button-container m-t-lg">
-                        <a class="button button--transparent" href="/donate">Donate tomorrow</a>
+                        <a class="button button--transparent" href="/donate">Donate now</a>
                     </div>
                 </div>
             </div>
