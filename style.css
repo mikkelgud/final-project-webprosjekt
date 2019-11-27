@@ -290,6 +290,13 @@ q{
     font-weight:700;
 }
 
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
 img{
     max-width:100%;
 }

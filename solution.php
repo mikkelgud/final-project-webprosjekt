@@ -34,18 +34,18 @@
                     <h2 class="serif">The Orange Room</h2>
                     <img src="images/person-with-painting.jpg" alt="Image of young smiling person" />
                     <p>The Box:</p>
+					<img src="images/orange-illustration.svg" alt="Stylized illustration of The Orange Box" class="center" />
                     <ul>
                    <li>2*2m hard plastic</li>
+				   <li>Tech, tech, tech ..!</li>
                     </ul>
                   <p>Contains:</p>
                    <ul>
                    <li>paper</li>
-                   <li>sanitary products</li>
-                   <li>underwear</li>
+                   <li>vending machine that contains sanitary products, underwear etc.</li>
                    <li>water from 20 liter tank</li>
-                   <li>antibac</li>
-                   <li>vending machine</li>
-                   <li>how to-poster with cartoon</li>
+                   <li>antibac or similar sanitary product</li>
+                   <li>educational poster with cartoon</li>
                     </ul>
                     <a href="angola.php" class="linkbox">
                         <div class="linkbox__content">
