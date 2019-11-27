@@ -19,7 +19,7 @@
                 <div class="col">
                 <h2>Ellen Sandøe</h2>
                 <p>Child Rights Education manager in UNICEF Norway</p>
-            <img src="images/ellen.png" alt="Image of statistics from Angola" />
+            <img src="images/ellen.png" alt="Profile picture of Ellen Sadøe" />
             <p style="font-weight: bold;">Julie in "Orange Room" had an interview with Ellen Sandøe in early November 2019 about women`s sanitation in schools in developing countries. Ellen works with education, management and child rights daily, both in Norway and abroad. She is very positive to the "Orange Room» and would like to point out how important such work is for young girls around the globe.</p>
             <p>Julie: Tell us a little bit about the sanitary and menstrual conditions of young girls in developing countries.</p>
             <p>Ellen: The conditions are bare. The sanitary conditions for girls, especially in puberty, is a major obstacle for a lot of young girls. Girls even stop attending school because of this factor. The awareness around this issue has increased in the recent years, and today we work for separate toilets for boys and girls. Everyone should have the opportunity to wash their hands under running water as well. Sanitary conditions for girls are an important issue for UNICEF, especially regarding clean water. We have our own project called "Wash", which is based on this subject.</p>
@@ -46,7 +46,7 @@
                     <a href="India.php" class="linkbox">
                         <div class="linkbox__content">
                             <div class="linkbox__image">
-                                <img src="images/angola-person.png" />
+                                <img src="images/angola-person.png"   alt="Girl speaking in front of crowd"/>
                             </div>
                             <div class="linkbox__meta">
                                 <h3 class="linkbox__title">India</h3>
@@ -60,7 +60,7 @@
                     <a href="interview.php" class="linkbox">
                         <div class="linkbox__content">
                             <div class="linkbox__image">
-                                <img src="images/angola-person.png" />
+                                <img src="images/angola-person.png"  alt="Girl speaking in front of crowd"/>
                             </div>
                             <div class="linkbox__meta">
                                 <h3 class="linkbox__title">Angola</h3>

@@ -12,7 +12,7 @@
             </div>
         </div>
     </section>
-    
+
     <section class="full-width-image">
         <img src="images/person-with-painting.jpg" alt="Image of young smiling person" />
     </section>
@@ -59,7 +59,7 @@
                     <a href="angola.php" class="linkbox">
                         <div class="linkbox__content">
                             <div class="linkbox__image">
-                                <img src="images/angola-person.png" />
+                                <img src="images/angola-person.png"  alt="Girl speaking in front of crowd" />
                             </div>
                             <div class="linkbox__meta">
                                 <h3 class="linkbox__title">Angola</h3>
@@ -73,7 +73,7 @@
                     <a href="India.php" class="linkbox">
                         <div class="linkbox__content">
                             <div class="linkbox__image">
-                                <img src="images/angola-person.png" />
+                                <img src="images/angola-person.png"  alt="Girl speaking in front of crowd"/>
                             </div>
                             <div class="linkbox__meta">
                                 <h3 class="linkbox__title">India</h3>

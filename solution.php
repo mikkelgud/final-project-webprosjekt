@@ -54,7 +54,7 @@
               <a href="interview.php" class="linkbox">
                         <div class="linkbox__content">
                             <div class="linkbox__image">
-                                <img src="images/ellen.png" style="border-radius: 100%" />
+                                <img src="images/ellen.png" style="border-radius: 100%" alt="Profile picture of Ellen Sadøe"/>
                             </div>
                             <div class="linkbox__meta">
                                 <h3 class="linkbox__title">Interview</h3>
