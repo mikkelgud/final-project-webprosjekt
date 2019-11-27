@@ -1,7 +1,9 @@
 <div class="sidebar">
     <div class="sidebar__inner">
         <div class="logo-container">
-            <img src="images/orange-logo.png" />
+        <a href="/">
+            <img src="images/orange-logo.png"/>
+            </a>
         </div>
         <div class="menu-container">
             <div class="single-menu-item">
