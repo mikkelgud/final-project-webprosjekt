@@ -47,7 +47,7 @@
                    <li>vending machine</li>
                    <li>how to-poster with cartoon</li>
                     </ul>
-                    <a href="/angola" class="linkbox">
+                    <a href="angola.php" class="linkbox">
                         <div class="linkbox__content">
                             <div class="linkbox__image">
                                 <img src="images/angola-person.png" />
@@ -61,7 +61,7 @@
                             </div>
                         </div>
                     </a>
-                    <a href="/angola" class="linkbox">
+                    <a href="india.php" class="linkbox">
                         <div class="linkbox__content">
                             <div class="linkbox__image">
                                 <img src="images/angola-person.png" />
