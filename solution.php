@@ -34,7 +34,7 @@
                     <h2 class="serif">The Orange Room</h2>
                     <img src="images/person-with-painting.jpg" alt="Image of young smiling person" />
                     <p>The Box:</p>
-					<img src="images/orange-illustration.svg" alt="Stylized illustration of The Orange Box" class="center" />
+					<img src="images/orange-illustration.png" alt="Stylized illustration of The Orange Box" class="center" />
                     <ul>
                    <li>2*2m hard plastic</li>
 				   <li>Tech, tech, tech ..!</li>
