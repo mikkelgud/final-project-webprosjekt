@@ -1,7 +1,7 @@
 <div class="sidebar">
     <div class="sidebar__inner">
         <div class="logo-container">
-        <a href="/">
+        <a href="index.php">
             <img src="images/orange-logo.png"/>
             </a>
         </div>

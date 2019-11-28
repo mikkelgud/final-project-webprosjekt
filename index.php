@@ -61,7 +61,7 @@
                         </div>
                     </div>
 
-                    <a href="angola" class="linkbox">
+                    <a href="angola.php" class="linkbox">
                         <div class="linkbox__content">
                             <div class="linkbox__image">
                                 <img src="images/angola-person.png" />
