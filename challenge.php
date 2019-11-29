@@ -14,7 +14,8 @@
     </section>
 
     <section class="full-width-image">
-        <img src="images/person-with-painting.jpg" alt="Image of young smiling person" />
+        <img src="images/doug-linstedt-unsplash-challenge.jpg" alt="Image of young person at school." />
+		<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@douglinstedt?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Doug Linstedt"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Doug Linstedt</span></a>
     </section>
 
     <section class="content-section">
@@ -36,7 +37,8 @@
 
     <section class="content-section">
         <div class="full-width-image">
-            <img src="images/person-with-painting.jpg" alt="Image of young smiling person" />
+            <img src="images/person-with-painting.jpg" alt="Image of young oerson smiling." />
+			<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@himanshu723?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Himanshu Singh Gurjar"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Himanshu Singh Gurjar</span></a>
         </div>
     </section>
 
@@ -45,7 +47,8 @@
             <div class="grid">
                 <div class="col">
                     <h2 class="serif">Tampons and pads is a necessity, not a luxury</h2>
-                    <img src="images/person-with-painting.jpg" alt="Image of young smiling person" />
+                    <img src="images/pit_latrine.jpg" alt="Image of a typical pit latrine." />
+					<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href=https://www.flickr.com/photos/gtzecosan/6394967291/?fbclid=IwAR16vYP2IgqjTjaKpf9Wgt2hm_MThwAB6vQox5eqhEMhJqej2ePdxLNskbse" target="_blank" rel="noopener noreferrer" title="Download free EU-Sida-GTZ Ecosan Promotion Project (EPP), Kenya"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">EU-Sida-GTZ Ecosan Promotion Project (EPP), Kenya</span></a>
                     <q>The sanitary conditions for girls, especially in puberty, is a major obstacle for a lot of young girls. Girls even stop attending school because of this factor.</q>
                     <p>-Ellen Sandøe <br/>Child Rights Education manager in UNICEF Norway</p>
                     <p>In 2017, over 100 000 people in developing countries did not go to school for several days during their period. This is due to the high pricing and lack of period products and unsafe hygienic conditions in their communities.</p>

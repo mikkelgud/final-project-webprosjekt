@@ -32,7 +32,8 @@
             <div class="grid">
                 <div class="col">
                     <h2 class="serif">The Orange Room</h2>
-                    <img src="images/person-with-painting.jpg" alt="Image of young smiling person" />
+                    <img src="images/josefin-unsplash-solution.jpg" alt="Image of tampons." />
+					<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@josefin?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Josefin"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Josefin</span></a>
                     <p>The Box:</p>
 					<img src="images/orange-illustration.png" alt="Stylized illustration of The Orange Box" class="center" />
                     <ul>
