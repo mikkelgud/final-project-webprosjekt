@@ -6,7 +6,7 @@
         <div class="container">
             <div class="grid">
                 <div class="col">
-                    <h1 class="u-color-white">Angola case study</h1>
+                    <h1 class="u-color-white">Case Study: Angola</h1>
                 </div>
             </div>
         </div>

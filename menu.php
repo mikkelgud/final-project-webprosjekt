@@ -10,10 +10,13 @@
                 <a class="active" href="index.php">Home</a>
             </div>
             <div class="single-menu-item">
-                <a href="challenge.php">Our Challenge</a>
+                <a href="challenge.php">The Challenge</a>
             </div>
             <div class="single-menu-item">
                 <a href="solution.php">Our Solution</a>
+            </div>
+            <div class="single-menu-item">
+                <a href="case-studies.php">Case Studies</a>
             </div>
             <div class="single-menu-item">
                 <a href="about.php">About</a>
