@@ -78,7 +78,7 @@ main{
         position: relative;
         position: fixed;
     }
-    main{
+    main,footer{
         margin-left:300px;
     }
 }
@@ -270,6 +270,14 @@ q{
 }
 .p-t-lg{
     padding-top:var(--lg);
+}
+/* Footer */
+
+footer{
+    background-color:var(--c-orange);
+    padding-top:60px;
+    padding-bottom:60px;
+    color:white;
 }
 
 /* Custom */
