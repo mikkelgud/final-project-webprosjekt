@@ -39,7 +39,7 @@
                    <p><strong>Specs:</strong></p>
 				   <ul>
                    <li>2400 mm x 2000 mm (H x L) dimensions</li>
-				   <li>sturdy hard plastic construction</li>
+				   <li>sturdy polyethylene plastic construction</li>
 				   <li>ventilation ducts</li>
 				   <li>gravity-driven and semi-closed water system (liquids contained in booth-structure)</li>
 				   <li>electronic lock system for door and vending machine operation</li>
