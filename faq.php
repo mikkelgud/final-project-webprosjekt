@@ -48,15 +48,7 @@
                 </div>
             </div>
         </div>
-    </section>
-
-    <section class="content-section">
-        <div class="full-width-image">
-            <img src="images/person-with-painting.jpg" alt="Image of young smiling person" />
-        </div>
-    </section>
-
-    
+    </section>  
 </main>
 
 
