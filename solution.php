@@ -34,21 +34,36 @@
                     <h2 class="serif">The Orange Room</h2>
                     <img src="images/josefin-unsplash-solution.jpg" alt="Image of tampons." />
 					<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@josefin?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Josefin"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Josefin</span></a>
-                    <p>The Box:</p>
+                    <p><strong>Our orange booth:</strong></p>
 					<img src="images/orange-illustration.png" alt="Stylized illustration of The Orange Box" class="center" />
-                    <ul>
-                   <li>2*2m hard plastic</li>
-				   <li>Tech, tech, tech ..!</li>
+                   <p><strong>Specs:</strong></p>
+				   <ul>
+                   <li>2400 mm x 2000 mm (H x L) dimensions</li>
+				   <li>sturdy hard plastic construction</li>
+				   <li>ventilation ducts</li>
+				   <li>gravity-driven and semi-closed water system (liquids contained in booth-structure)</li>
+				   <li>electronic lock system for door and vending machine operation</li>
+				   <li>tried and tested GPS/GSM-implementation for communication with home base when needed</li>
+				   <li>SMART-sensors for monitoring various states of the system (water level, product stock, sabotage etc.)</li>
+				   <li>unifying logic control of whole system by micro-computer</li>
+				   <li>powered by solar panels and rechargeable backup battery</li>
                     </ul>
-                  <p>Contains:</p>
+					<p>Our orange booth-system is designed to operate with minmal human supervision.
+					Based on a <em>"deploy-and-recoup"</em>-service model the system is trusted to operate autonomously for some time until a replacement is needed.
+					When a fresh booth is deployed in the target area, it will stay in place serving its users until the booth <em>"phones home"</em> - for a wide variety of reasons - or is simply checked upon after due time.
+					Equiped with SMART-sensors and logic control the system will alert The Orange Room team and/or partners when i.e. the water level is low, vending machine stock is out, waste bin is full, or even <em>sabotage</em>.
+					The booth will then be recouped for servicing and a replacement booth will be deployed in its place to secure a non-disruptive service.
+					The Orange Room organization employs trusted local partners for the important task of transporting our orange booths to location via available, local means of transportation ranging between ATVs, tracktors and trucks.
+					<br>Because of all these features, much concern in developing the orange booth-system has gone towards securing system integrity and implementing technology with low-energy consumption.</p>
+                  <p><strong>Features:</strong></p>
                    <ul>
-                   <li>paper</li>
-                   <li>vending machine that contains sanitary products, underwear etc.</li>
-                   <li>water from 20 liter tank</li>
-                   <li>antibac or similar sanitary product</li>
+                   <li>vending machine that contains sanitary products (tampons, whipes, underwear etc.)</li>
+                   <li>water from 20 Liter supply</li>
+				   <li>waste bin</li>
+                   <li>antibac or similar sanitary product (optional)</li>
                    <li>educational poster with cartoon</li>
                     </ul>
-                   
+                   <p><strong>Peer-mentor program:</strong></p>
                     <p>Fears of leaking and getting caught off guard by your period are both fears that will ring true for anyone who has ever menstruated. Research has repeatedly shown that knowledge about  menstruation (and menstrual products) is just as an important part of the equation as access to menstrual products and bathrooms.  In countries such as India, there is a great preference to talk about menstrual health with older siblings, friends or other pupils rather than teachers and their own mothers.  Creating a safe environment and community of educated peers will undoubtedly be a crucial part of ending period poverty. </p>
               <p>The Orange Box peer-mentor program provides evidence-based information on menstruation, menstruation products, gender sensitivity and puberty education. The program will be developed in accordance to local needs in collaboration with Orange Box advisory board and advisors. </p>
               <p>Our solutions should feel like a safe environment for everyone, and we aspire to ensure this by designing with accessibility in mind. Got feedback? Contact us at contact@orangeroom.com.</p>
