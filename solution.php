@@ -31,12 +31,11 @@
                         <li>Pamphlets and posters with information adapted to address local education and myths about periods</li>
                         <li>Water from 20 Liter supply</li>
                         <li>Waste bin</li>
-                        <li>Powered by solar panels and rechargeable backup battery</li>
                      </ul>
                      <h3>Specifications:</h3>
                      <ul>
                         <li>2400 mm x 2000 mm (H x L) dimensions</li>
-                        <li>Sturdy hard plastic construction</li>
+                        <li>Sturdy polyethylene construction</li>
                         <li>Powered by solar panels and rechargeable backup battery</li>
                         <li>Total cost below $1000 per unit</li>
                       </ul>
