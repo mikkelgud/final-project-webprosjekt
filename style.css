@@ -176,6 +176,12 @@ q{
 .logo-container{
     min-width:120px;
 }
+.a-buttons__single{
+    cursor: pointer;
+    padding:5px;
+    background-color:var(--c-dark);
+    color:white;    
+}
 
 
 /* Utilities */
@@ -309,6 +315,9 @@ img{
 figure, img{
     margin-top:2rem;
 }
+figure:first-child,img:first-child{
+    margin-top:0;
+}
 
 .linkbox{
     background-color:var(--c-dark);
@@ -343,6 +352,7 @@ figure, img{
 details{
     border:2px solid var(--c-dark);
     display:block;
+    margin-bottom:-2px;
 }
 summary{
     list-style-image: none;
@@ -370,7 +380,7 @@ details summary::-webkit-details-marker {
   display:none;
 }
 
-ul{
+ul,ol{
     margin-left:23px;
     margin-bottom:30px;
 }
