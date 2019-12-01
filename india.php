@@ -23,11 +23,6 @@
     </section>
 
     <section class="content-section">
-        <div class="full-width-image">
-        </div>
-    </section>
-
-    <section class="content-section">
         <div class="container">
             <div class="grid">
                 <div class="col">
@@ -39,7 +34,7 @@
                     <a href="angola.php" class="linkbox">
                         <div class="linkbox__content">
                             <div class="linkbox__image">
-                                <img src="images/angola-person.png" />
+                                <img src="images/angola-person.png"  alt="Student speaking in front of crowd" />
                             </div>
                             <div class="linkbox__meta">
                                 <h3 class="linkbox__title">Angola</h3>
@@ -53,7 +48,7 @@
                     <a href="interview.php" class="linkbox">
                         <div class="linkbox__content">
                             <div class="linkbox__image">
-                                <img src="images/ellen.png" style="border-radius: 100%" alt="Profile picture of Ellen Sadøe" />
+                                <img src="images/ellen.png" style="border-radius: 100%" alt="Profile picture of Ellen Sandøe" />
                             </div>
                             <div class="linkbox__meta">
                                 <h3 class="linkbox__title">Interview</h3>
