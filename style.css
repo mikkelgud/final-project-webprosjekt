@@ -501,6 +501,12 @@ li{
     .single-menu-item a.active:after{
         display:none;
     }
+    .linkbox{
+        padding:20px;
+    }
+    .linkbox__content{
+        flex-direction: column;
+    }
 
     .a-buttons{
         margin-top:0;
@@ -530,5 +536,12 @@ li{
         font-size:var(--h4);
         font-weight:300;
         line-height:1.2em;
+    }
+    q{
+        font-size:var(--h4);
+    }
+    .col{
+        max-width:100%;
+        display:block;
     }
 }
