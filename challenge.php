@@ -22,7 +22,7 @@
         <div class="container">
             <div class="grid">
                 <div class="col">
-                    <h2 class="serif">We Need to Destigmatize Menstruation</h2>
+                    <h2 class="serif">Period Poverty Needs to End</h2>
                     <p>Menstruation is one of the most natural things a human can experience. People all over the world has it, and still, it is a globally stigmatized issue. Not only is it taboo to talk about, but it is also tough for many people to go through.</p>
                     <p> 1 in 10 menstruating pupils in Africa do not participate in class while on their period. This makes 20% of a schoolyear. The reason is complex, but one factor is the lack of available sanitary products, terrible hygienic conditions and poverty.</p>
                     <q>At its worst, there are no toilets at all. In some schools, there may only be a small room for both girls and boys, where there is only a hole in the floor.</q>
