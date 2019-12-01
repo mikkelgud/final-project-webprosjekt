@@ -25,7 +25,7 @@
                     <h2 class="serif">Period Poverty Needs to End</h2>
                     <p>Menstruation is one of the most natural things a human can experience. People all over the world has it, and still, it is a globally stigmatized issue. Actually, the origin of the word 'taboo' traces back from the Polynesian word “taupa”, which means menstrual blood. </p>
                     <p> 1 in 10 menstruating pupils in Africa do not participate in class while on their period. This makes 20% of a schoolyear. The reason is complex, but one factor is the lack of available sanitary products, terrible hygienic conditions and poverty.</p>
-                    <q>At its worst, there are no toilets at all. In some schools, there may only be a small room for both girls and boys, where there is only a hole in the floor.</q>
+                    <q>At its worst, there are no toilets at all. In some schools, there may only be a small room where there is only a hole in the floor.</q>
                     <p><i>-Ellen Sandøe <br/>Child Rights Education manager in UNICEF Norway</i></p>
                     <figure>
                         <img src="images/pit-latrine-outside.jpg" alt="Pit latrine covered with fabric scraps." />
@@ -40,7 +40,7 @@
                     </div>
                     <h2 class="serif">The Result? More People Will Finish Their Education</h2>
                     <p>The Orange Rooms ultimate goal is to ensure that more people finish their education, by developing solutions for keeping pupils in class while menstruating.</p>
-                    <q>The sanitary conditions for girls, especially in puberty, is a major obstacle for a lot of young girls. Girls even stop attending school because of this factor.</q>
+                    <q>The sanitary conditions for pupils, especially in puberty, is a major obstacle and pupils even stop attending school because of this.</q>
                     <p><i>-Ellen Sandøe <br/>Child Rights Education manager in UNICEF Norway</i></p>
                     <p>Education plays a large part in global development. If more people finish their education, these might be some of the positive consequences:</p>
                     <ul>
