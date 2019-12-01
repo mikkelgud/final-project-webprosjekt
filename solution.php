@@ -17,7 +17,7 @@
         <div class="container">
             <div class="grid">
                 <div class="col">
-                    <p>The Orange Room is a booth where pupils can safely handle their menstruation needs. The booth is equipped with, among other features, an electronic lock system, self sustained energy and a vending machine for sanitary products.</p>
+                    <p>The Orange Room is a booth for menstrual hygiene management. The booth is equipped with, among other features, an electronic lock system, self sustained energy and a vending machine for sanitary products.</p>
                     <h2 class="serif">The Orange Room</h2>
                     <img src="images/orange-illustration.png" alt="Stylized illustration of The Orange Box. Showing features such as solar roof, water basin and vending machine." class="center" />
                     <h3>Our Booth Includes:</h3>
@@ -85,10 +85,10 @@
             <div class="grid">
                 <div class="col">
                     <h2 class="serif">Empowering People</h2>
-                    <p>Research has repeatedly shown that knowledge about menstruation (and menstrual products) is just as an important part of the equation as access to menstrual products and bathrooms. Therefore a big part of our solution is to educate and empower peers to spread information in their local communities.</p>
+                    <p>Research has repeatedly shown that knowledge about menstruation and menstrual products is just as an important part of the equation as access to menstrual products and bathrooms. Therefore a big part of our solution is to educate and empower peers to spread information in their local communities.</p>
                     <h3>The Peer Mentor Program</h3>
                     <p>The Orange Box peer-mentor program provides evidence-based information on menstruation, menstruation products, gender sensitivity and puberty education. The program will be developed in accordance to local needs in collaboration with Orange Box advisory board and advisors. </p>
-                    <q>Educating girls is a surefire way to raise economic productivity, lower infant and maternal mortality, improve nutritional status and health, reduce poverty, and wipe out HIV/AIDS and other diseases.</q>
+                    <q>Educating pupils is a surefire way to raise economic productivity, lower infant and maternal mortality, improve nutritional status and health, reduce poverty, and wipe out HIV/AIDS and other diseases.</q>
                     <p>-Maritza Ascencious, United Nations Children’s Fund (UNICEF)</p>
                     <h2 class="serif">Discover How Our Solutions Might Be Used</h2>
                     <a href="angola.php" class="linkbox">
