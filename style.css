@@ -291,6 +291,13 @@ footer{
     margin-right:5px;   
     border-radius:5px;
 }
+.a-buttons__single.active{
+    background-color:var(--c-orange);
+
+}
+.a-buttons__single.active svg path{
+    fill:white;
+}
 .a-buttons__single svg{
     vertical-align: middle;
     display:block;
@@ -481,10 +488,6 @@ li{
 /* Mobile only */
 
 @media (max-width:800px){
-    .sidebar__inner{
-        display:flex;
-        align-items:center;
-    }
     .menu-container{
         margin-top:0;
     }
@@ -496,6 +499,16 @@ li{
         font-size:18px;
     }
     .single-menu-item a.active:after{
+        display:none;
+    }
+
+    .a-buttons{
+        margin-top:0;
+    }
+    .a-buttons__single{
+        margin-bottom:5px;
+    }
+    #zoom-page{
         display:none;
     }
 
