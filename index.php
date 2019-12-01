@@ -60,7 +60,7 @@
                    <a href="angola.php" class="linkbox">
                        <div class="linkbox__content">
                            <div class="linkbox__image">
-                               <img src="images/angola-person.png"  alt="Girl speaking in front of crowd" />
+                               <img src="images/angola-person.png"  alt="Student speaking in front of crowd" />
                            </div>
                            <div class="linkbox__meta">
                                <h3 class="linkbox__title">Angola</h3>

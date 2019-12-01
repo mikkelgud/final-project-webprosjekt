@@ -6,7 +6,7 @@
         <div class="container">
             <div class="grid">
                 <div class="col">
-                    <h1 class="u-color-white">The Challenge </h1>
+                    <h1 class="u-color-white">The Challenge</h1>
                 
                 </div>
             </div>
@@ -28,7 +28,7 @@
                     <q>At its worst, there are no toilets at all. In some schools, there may only be a small room for both girls and boys, where there is only a hole in the floor.</q>
                     <p><i>-Ellen Sandøe <br/>Child Rights Education manager in UNICEF Norway</i></p>
                     <figure>
-                        <img src="images/pit-latrine-outside.jpg" alt="Image of young oerson smiling." />
+                        <img src="images/pit-latrine-outside.jpg" alt="Pit latrine covered with fabric scraps." />
                         <figcaption>Example of a pit Latrine in Zambia. Photo: <a href="https://www.flickr.com/photos/gtzecosan/3233256285">D. Schäfer 2004</a></figcaption>
                     </figure>
                     <div class="infobox">

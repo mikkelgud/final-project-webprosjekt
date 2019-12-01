@@ -19,7 +19,7 @@
                 <div class="col">
                     <p>The Orange Room is a booth where pupils can safely handle their menstruation needs. The booth is equipped with, among other features, an electronic lock system, self sustained energy and a vending machine for sanitary products.</p>
                     <h2 class="serif">The Orange Room</h2>
-                    <img src="images/orange-illustration.png" alt="Stylized illustration of The Orange Box" class="center" />
+                    <img src="images/orange-illustration.png" alt="Stylized illustration of The Orange Box. Showing features such as solar roof, water basin and vending machine." class="center" />
                     <h3>Our Booth Includes:</h3>
                     <ul>
                         <li>Ventilation ducts</li>
@@ -62,6 +62,7 @@
                     <p>Equiped with SMART-sensors and logic control the system will alert The Orange Room team and/or partners when i.e. the water level is low, vending machine stock is out, waste bin is full, or even <em>sabotage</em>.
                     The booth will then be recouped for servicing and a replacement booth will be deployed in its place to secure a non-disruptive service.</p>
                     <img src="images/person-building.jpg" alt="Person cutting planks for building." />
+                    <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@alexradelich?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Alex Radelich"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Alex Radelich</span></a>
                     <h3>Engaging the Local Community</h3>
                     <p>The Orange Room organization employs trusted local partners for the important task of transporting our orange booths to location via available, local means of transportation ranging between ATVs, tracktors and trucks.</p>
 
@@ -74,7 +75,7 @@
     <section class="content-section">
         <div class="full-width-image">
             <img src="images/working-woman.jpg" alt="Person with a child on their back walking through a field." />
-            <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@timmarshall?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Tim Marshall"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Tim Marshall</span></a>
+            <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@anniespratt?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Annie Spratt"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Annie Spratt</span></a>
         </div>
     </section>
 
@@ -83,7 +84,7 @@
         <div class="container">
             <div class="grid">
                 <div class="col">
-                    <h2 class="serif">Empowering Women</h2>
+                    <h2 class="serif">Empowering People</h2>
                     <p>Research has repeatedly shown that knowledge about menstruation (and menstrual products) is just as an important part of the equation as access to menstrual products and bathrooms. Therefore a big part of our solution is to educate and empower peers to spread information in their local communities.</p>
                     <h3>The Peer Mentor Program</h3>
                     <p>The Orange Box peer-mentor program provides evidence-based information on menstruation, menstruation products, gender sensitivity and puberty education. The program will be developed in accordance to local needs in collaboration with Orange Box advisory board and advisors. </p>
@@ -93,7 +94,7 @@
                     <a href="angola.php" class="linkbox">
                         <div class="linkbox__content">
                             <div class="linkbox__image">
-                                <img src="images/angola-person.png"  alt="Girl speaking in front of crowd" />
+                                <img src="images/angola-person.png"  alt="Student speaking in front of crowd" />
                             </div>
                             <div class="linkbox__meta">
                                 <h3 class="linkbox__title">Angola</h3>

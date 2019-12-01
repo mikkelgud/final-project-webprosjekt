@@ -13,9 +13,9 @@
                 <h3>Got any questions?</h3>
                 <p>Please send us an email at <a href="mailto:contact@theorangeroom.org">contact@theorangeroom.org</a></p>
                 <p><a href="privacy.php">Privacy Policy</a></p>
-                <p><a href="press.php">Press enquires</a></p>
             </div>
         </footer>
         </div> <!-- /content -->
+        <script src="script.js"></script>
     </body>
 </html>

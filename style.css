@@ -63,8 +63,9 @@ html,body{
     background-color:var(--c-dark);
     padding:var(--lg);
     box-shadow: 0px 2px 20px #000;
-    
+    z-index:3;
 }
+
 main{
     display: flex;
     flex-direction: column;
@@ -77,6 +78,7 @@ main{
         height:100%;
         position: relative;
         position: fixed;
+        overflow-y:scroll;
     }
     main,footer{
         margin-left:300px;
@@ -176,13 +178,6 @@ q{
 .logo-container{
     min-width:120px;
 }
-.a-buttons__single{
-    cursor: pointer;
-    padding:5px;
-    background-color:var(--c-dark);
-    color:white;    
-}
-
 
 /* Utilities */
 .u-screen-reader-text {
@@ -278,6 +273,94 @@ footer{
     padding-top:60px;
     padding-bottom:60px;
     color:white;
+}
+
+/* Accesibility */
+.a-buttons{
+    display:flex;
+    margin-top:45px;
+}
+.a-buttons__single{
+    cursor: pointer;
+    text-decoration:none;
+    padding:5px;
+    background-color:var(--c-dark);
+    color:white;
+    background-color:white;
+    display:block;
+    margin-right:5px;   
+    border-radius:5px;
+}
+.a-buttons__single svg{
+    vertical-align: middle;
+    display:block;
+}
+.a-buttons__single svg path{
+    fill:var(--c-dark);
+}
+
+#zoom-page:hover + .zoom-message{
+    display:block;
+}
+.zoom-message{
+    display:none;
+    position: fixed;
+    top:0;
+    left:300px;
+    max-width: 600px;
+    width: 400px;
+    background-color: white;
+    z-index:10;
+    color: black;
+    font-size:40px;
+    padding: 10px;
+    border-radius: 5px;
+    border:2px solid black;
+}
+
+.contrast #content{
+    color:black;
+}
+
+.contrast .sidebar{
+    background-color:white;
+    color:black;
+}
+.contrast .logo-container img{
+    background-color:black;
+}
+.contrast .single-menu-item a{
+    color:black;
+}
+.contrast .single-menu-item a.active:after{
+    background-color:black;
+}
+.contrast .page-header{
+    background-color:white;
+    color:black;
+}
+.contrast .page-header .u-color-white{
+    color:black;
+}
+.contrast q{
+    color:black;
+    border-color:black;
+}
+.contrast .infobox{
+    background-color:black;
+}
+.contrast .linkbox{
+    background-color:black;
+}
+.contrast footer{
+    color:black;
+    background-color:white;
+}
+.contrast .a-buttons__single{
+    background-color:black;
+}
+.contrast .a-buttons__single svg path{
+    fill:white;
 }
 
 /* Custom */
